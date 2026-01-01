@@ -1,10 +1,9 @@
-💊 **Medicine Time**
+💊 Medicine Time
 🎯 Goal
 
-Medicine Time is a native Android application designed to help busy and forgetful users remember their daily medications ⏰. The app allows users to store medicine details and set multiple alarms for each pill, with alarms scheduled at specific times and on selected days of the week 📅.
+Medicine Time is a native Android application developed during my college academic period 🎓 as part of hands-on learning and practical implementation of core Android concepts. The application is designed to help busy and forgetful users remember their daily medications ⏰.
 
-Users can view their medicines in a Today view or select a specific date to check scheduled medications 🔍. The application also maintains a history of medication intake, helping users track their medicine usage over time and stay consistent with their health routine 📊.
-
+It allows users to store medicine details and set multiple alarms for each pill, with alarms scheduled at specific times and on selected days of the week 📅. Users can view their medicines in a Today view or select a specific date to check scheduled medications 🔍. Additionally, the app maintains a history of medication intake, helping users track their medicine usage over time and stay consistent with their health routine 📊.
 
 
 
